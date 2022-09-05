@@ -1,6 +1,4 @@
 
-
-
 const filme = {
 	nome: "Auto da Compadecida", 
 	ano: 2000, 
