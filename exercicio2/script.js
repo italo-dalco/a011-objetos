@@ -1,3 +1,4 @@
+
 const filme = {
 	nome: "Auto da Compadecida", 
 	ano: 2000, 
@@ -13,3 +14,14 @@ const filme = {
 };
 
 // respostas aqui ⬇️
+
+
+console.log(filme.elenco[0])
+
+//---------------------------------------------------------
+
+console.log(filme.elenco[3])
+
+console.log(filme.transmissoesHoje)
+
+console.log(filme.transmissoesHoje[1].horario)
